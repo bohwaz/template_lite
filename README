@@ -1,0 +1,6 @@
+
+    Ideas for templateLite 3 :
+    
+     * Complete rewrite in object PHP5
+     * Separated layers : Parser / Compiler / Template object
+     * Use parser to do useful things : Syntax checker, etc.
